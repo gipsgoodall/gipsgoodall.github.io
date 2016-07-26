@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Post!"
+title:  "Git Push"
 date:   2016-07-26 15:35:23 -0600
 categories: jekyll update
 ---
