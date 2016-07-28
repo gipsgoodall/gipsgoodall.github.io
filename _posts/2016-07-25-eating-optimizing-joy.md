@@ -9,6 +9,7 @@ categories: jekyll update
 
 
 Check out [Michael Pollan's Website][Michael Pollan] for more info on how to optimize you're eating.
+
 [Michael Pollan]: http://michaelpollan.com/reviews/how-to-eat/
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
