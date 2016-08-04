@@ -14,4 +14,4 @@ there is evidence that fasted cardio helps control appetite throughout the day.
 2. It's better to exercise in the afternoon/evening for high intensity activities and muscle strength and growth
 because your muscles are warmer and testosterone levels higher. 
 
-[Curiousity] : https://curiosity.com/topics/the-best-time-to-exercise-depends-on-your-goals-curiosity/?utm_content=digest&utm_campaign=digest&utm_source=sendgrid&utm_medium=email#best-time-of-day-to-workout-pros-and-cons-for-working-out-morning-noon-or-night-fitnessblender
+[Curiousity]: https://curiosity.com/topics/the-best-time-to-exercise-depends-on-your-goals-curiosity/?utm_content=digest&utm_campaign=digest&utm_source=sendgrid&utm_medium=email#best-time-of-day-to-workout-pros-and-cons-for-working-out-morning-noon-or-night-fitnessblender
