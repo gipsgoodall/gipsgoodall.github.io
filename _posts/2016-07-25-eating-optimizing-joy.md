@@ -8,7 +8,7 @@ categories: jekyll update
 “Eat food. Not too much. Mostly plants.” - Michael Pollan
 
 
-Check out [Michael Pollan's Website][Michael Pollan] for more info on how to optimize you're eating.
+Check out [Michael Pollan's Website][Michael Pollan] for more info on how to optimize your eating.
 
 [Michael Pollan]: http://michaelpollan.com/reviews/how-to-eat/
 
