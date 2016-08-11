@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Optimal Time to Workout"
+title:  "Optimal Time to Workout"
 date:   2016-08-04 10:07:23 -0600
 categories: jekyll update
 ---
