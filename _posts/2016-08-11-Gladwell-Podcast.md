@@ -19,7 +19,13 @@ Glassboro State College in New Jersey.
 I don't think Gladwell's arguments are always well laid out or particularly convincing but the
 podcasts are interesting and thought provoking, as Gladwell always is. 
 
+If you're further interested in the ideas from Carlos Doesn't Remember, take a look at the 
+book [Rob Peace][The Short and Tragic Life of Robert Peace] by Jeff Hobbs.
+That book is a detailed look at one young man's life. He grew up in troubled town, excelled in school, even at
+Yale University and yet did not live up to anyone's expectations. It's a captivating read.
+
 [Gladwell]: http://revisionisthistory.com/
+[Rob Peace]: https://www.amazon.com/Short-Tragic-Life-Robert-Peace/dp/1476731918
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
