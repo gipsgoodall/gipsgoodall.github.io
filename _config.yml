@@ -9,14 +9,13 @@
 title: Optimizing Joy
 email: ggoodall@mines.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is a site about optimization and happiness
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a site about optimization, happiness and joy (mostly). It ends up being posts of things
+  I find beneficial to the human experience, yet another personal blog on the web. However, I try not
+  to give my opinions, I may point to the opinions of others but mostly to research. enJOY. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.optimizingjoy.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: I don't tweet
+github_username:  nunya
 
 # Build settings
 markdown: kramdown
